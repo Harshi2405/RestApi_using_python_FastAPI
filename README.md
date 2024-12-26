@@ -11,10 +11,15 @@ You need to execute the following command in the terminal, you can also use comm
 
 After using this command, you will get something like this:
 INFO:     Will watch for changes in these directories: ['...\\PythonProjectapi']
+
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+
 INFO:     Started reloader process [21956] using StatReload
+
 INFO:     Started server process [27984]
+
 INFO:     Waiting for application startup.
+
 INFO:     Application startup complete.
 
 Now you can use postman app to verify this,
