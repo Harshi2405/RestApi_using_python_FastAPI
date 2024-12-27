@@ -26,3 +26,5 @@ INFO:     Application startup complete.
 Now you can use postman app to verify this.
 http://127.0.0.1:8000
 The above is the link, and use accordingly for each method.
+
+**Note:** The data entered will not be saved anywhere, so you have to start it fresh once we restart or reload it again.
